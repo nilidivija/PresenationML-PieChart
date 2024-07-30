@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PiechartPresentationOpenXML\\PiechartPresentationOpenXML.csproj": {}
+    "C:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PresenationML-PieChart\\PiechartPresentationOpenXML\\PiechartPresentationOpenXML.csproj": {}
   },
   "projects": {
-    "c:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PiechartPresentationOpenXML\\PiechartPresentationOpenXML.csproj": {
+    "C:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PresenationML-PieChart\\PiechartPresentationOpenXML\\PiechartPresentationOpenXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PiechartPresentationOpenXML\\PiechartPresentationOpenXML.csproj",
+        "projectUniqueName": "C:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PresenationML-PieChart\\PiechartPresentationOpenXML\\PiechartPresentationOpenXML.csproj",
         "projectName": "PiechartPresentationOpenXML",
-        "projectPath": "c:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PiechartPresentationOpenXML\\PiechartPresentationOpenXML.csproj",
+        "projectPath": "C:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PresenationML-PieChart\\PiechartPresentationOpenXML\\PiechartPresentationOpenXML.csproj",
         "packagesPath": "C:\\Users\\rs\\.nuget\\packages\\",
-        "outputPath": "c:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PiechartPresentationOpenXML\\obj\\",
+        "outputPath": "C:\\WorkingProjects\\C#\\PieChartOpenXMLPPT\\PresenationML-PieChart\\PiechartPresentationOpenXML\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rs\\AppData\\Roaming\\NuGet\\NuGet.Config",

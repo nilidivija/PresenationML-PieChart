@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PiechartPresentationOpenXML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870e9d17d2c2718f88503baf63e1ecd2708ca94c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PiechartPresentationOpenXML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PiechartPresentationOpenXML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
