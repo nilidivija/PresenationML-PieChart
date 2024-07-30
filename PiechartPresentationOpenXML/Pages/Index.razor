@@ -1,0 +1,7 @@
+﻿@page "/"
+@inject PiechartPresentationOpenXML.Data.Create Create
+
+
+<button type="button" class="btn btn-primary btn"
+@onclick="@(()=>Create.CreatePresentation("Presentation.pptx"))">Create Presentation</button>
+
